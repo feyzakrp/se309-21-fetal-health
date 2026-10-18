@@ -4,3 +4,4 @@ SE309-21: Fetal health classification from cardiotocography (UCI CTG data). SE30
 ## Members
 
 Feyza Karapehlivan | 220201010 | feyzakrp
+Furkan Güneş | 220201042 | Gnsfurkan
